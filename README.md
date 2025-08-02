@@ -2,7 +2,6 @@
 
 A simple, powerful web application that removes image backgrounds using artificial intelligence. Built with Python Flask and powered by the rembg library.
 
-![Demo Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -38,6 +37,7 @@ Open your browser
 Navigate to http://127.0.0.1:5000
 
 That's it! Start removing backgrounds instantly.
+
 🛠️ Tech Stack
 
 Backend: Python, Flask
@@ -60,8 +60,8 @@ Photography: Professional headshots and portraits
 Marketing: Clean product images for presentations
 
 🔧 Configuration
-The application includes several configurable options:
 
+The application includes several configurable options:
 File Size Limit: 16MB (configurable)
 Supported Formats: JPG, PNG, GIF, BMP, WebP
 Processing Models: Uses rembg's default U2Net model
